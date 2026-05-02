@@ -31,10 +31,3 @@ A real-time computer vision project that allows users to control mouse movement,
 - PyAutoGUI
 
 ---
-
-## 📦 Installation
-
-```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
-pip install -r requirements.txt
